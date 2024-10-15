@@ -10,7 +10,6 @@ dependencies:
   - python
   - pip
   - pykdtree
-  - itkwidgets
   - jupyterlab>=1.0
   - jupyter-dash
   - notebook=6.*
